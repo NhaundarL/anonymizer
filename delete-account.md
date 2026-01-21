@@ -30,7 +30,7 @@ Vous pouvez créer un nouveau compte à tout moment.
 
 ---
 
-## 🇬🇧 Account Deletion Instructions
+## Account Deletion Instructions
 
 You may request deletion of your account and all associated data by sending an email to:
 
