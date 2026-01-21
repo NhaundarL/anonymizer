@@ -1,15 +1,15 @@
-# Privacy Policy — AI Anonymizer
+# Privacy Policy — Anonymizer
 
 _Last updated: January 2026_
 
-AI Anonymizer (“the App”) is developed with privacy and security as core principles.  
+Anonymizer (“the App”) is developed with privacy and security as core principles.  
 This document describes how the App handles user data, including what is processed, what is stored, and what is never collected.
 
 ---
 
 ## 1. Data Collection
 
-AI Anonymizer **does not collect, store, nor transmit any personal data**, including documents, text content, photos, contacts, browsing history, or any other sensitive information.
+Anonymizer **does not collect, store, nor transmit any personal data**, including documents, text content, photos, contacts, browsing history, or any other sensitive information.
 
 Documents and text anonymization are performed **locally on the device**, without any upload to external servers.
 
@@ -31,7 +31,7 @@ The App **does not collect:**
 
 ## 2. Data Sharing
 
-AI Anonymizer **does not share any data** with third parties, companies, organizations, or advertisers.
+Anonymizer **does not share any data** with third parties, companies, organizations, or advertisers.
 
 No data is sold, rented, traded, analyzed externally, or used for profiling.
 
@@ -120,7 +120,7 @@ Account deletion can be requested directly through the App.
 
 ## 9. Children’s Privacy (COPPA)
 
-AI Anonymizer is **not intended for children under 13**.  
+Anonymizer is **not intended for children under 13**.  
 We do not knowingly collect personal data from children.
 
 ---
