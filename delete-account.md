@@ -1,4 +1,4 @@
-# Suppression de compte — AI Anonymizer / Document Redactor
+# Suppression de compte — Anonymizer / Document Redactor
 
 Dernière mise à jour : 2026-01-22
 
