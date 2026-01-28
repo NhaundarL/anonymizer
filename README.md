@@ -15,7 +15,7 @@ This repository contains public documentation related to the application, includ
 - User data (email and preferences) may be stored to support application functionality.
 
 For full details, see:  
-`PRIVACY_POLICY.md`
+`privacy-policy.md`
 
 ---
 
@@ -29,12 +29,12 @@ To delete an account from the application:
 2. Navigate to: Settings → Account → Delete Account
 3. Confirm the deletion request
 
-Alternatively, users may request deletion via the contact email listed in the Privacy Policy.
+Alternatively, users may request deletion via the contact email listed in the Delete account file.
 
 Deletion is permanent and removes all associated account data from our systems.
 
 For full instructions, see:  
-`ACCOUNT_DELETION.md`
+`delete-account.md`
 
 ---
 
