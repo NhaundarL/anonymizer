@@ -2,7 +2,7 @@
 
 _Last updated: January 2026_
 
-Anonymizer (“the App”) is developed with privacy and security as core principles.  
+Velkira (the app) is developed with privacy and security as core principles.  
 This document describes how the App handles user data, including what is processed, what is stored, and what is never collected.
 
 ---
@@ -145,8 +145,5 @@ This policy may be updated if necessary. Updates will be posted publicly.
 
 ## 12. Contact
 
-For privacy-related questions or account deletion requests, users may contact:
-
-**Email:** [Support Email Here — optional]  
-or directly through the App account deletion menu.
+For privacy-related questions or account deletion requests, contact the owner.
 
