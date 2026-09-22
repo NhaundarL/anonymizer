@@ -145,5 +145,5 @@ This policy may be updated if necessary. Updates will be posted publicly.
 
 ## 12. Contact
 
-For privacy-related questions or account deletion requests, contact the owner.
+For privacy-related questions or account deletion requests, contact the dev there : nhaundar_dev@outlook.com
 
